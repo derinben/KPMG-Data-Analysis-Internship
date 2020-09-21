@@ -18,3 +18,5 @@ The virtual internship has three components:
     * Data Insights and Exploration - [Data Exploration ipynb file](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/Exploratory_sprocket%20(1).ipynb) , [final presentation.](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/task2submission.pptx)
     
     * Data Insights and Presentation - [Dashboard](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/final_dashboard.png)
+
+![Dashboard](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/final_dashboard.png?raw=true)

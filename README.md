@@ -1,2 +1,18 @@
 # KPMG-Data-Analysis-Internship
 In this virtual internship, I got the opportunity to complete similar work that the Graduates do at KPMG. Had a wonderful experience in learning what it is like to work at one of the world’s best data analytics team, and building my skills required to excel as an analytics consultant.
+
+The virtual internship has three components:
+* Data Quality Assessment
+  * This part includes the assessment of data quality and completeness in preparation for analysis
+  
+* Data Insights
+  * Targeting high value customers based on customer demographics and attributes.
+
+* Data Insights and Presentation
+  * Using visualisations to present insights
+  
+  
+  The link to the respective files are given below:
+    * Data Quality Assessment - [Data Assesment](http://github.com)
+    * Data Insights and Exploration - [Data Exploration](http://github.com)
+    * Data Insights and Presentation - [Dashboard](http://github.com)

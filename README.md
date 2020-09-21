@@ -13,6 +13,6 @@ The virtual internship has three components:
   
   
   The link to the respective files are given below:
-    * Data Quality Assessment - [Data Assesment](http://github.com)
-    * Data Insights and Exploration - [Data Exploration](http://github.com)
+    * Data Quality Assessment - [ipynb file](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/Exploratory_sprocket%20(1).ipynb)
+    * Data Insights and Exploration - [Data Exploration ipynb file](https://github.com/derinben/KPMG-Data-Analysis-Internship/blob/master/Exploratory_sprocket%20(1).ipynb)
     * Data Insights and Presentation - [Dashboard](http://github.com)
